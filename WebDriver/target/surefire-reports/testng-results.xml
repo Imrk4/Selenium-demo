@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mavenn.Testdemo11" duration-ms="25480" started-at="2022-07-22T12:13:29 IST" finished-at="2022-07-22T12:13:54 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="25480" started-at="2022-07-22T12:13:29 IST" finished-at="2022-07-22T12:13:54 IST">
+      <class name="mavenn.Testdemo11">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenn.Testdemo11@67784306]" name="beforeTest" is-config="true" duration-ms="12379" started-at="2022-07-22T12:13:29 IST" finished-at="2022-07-22T12:13:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:mavenn.Testdemo11@67784306]" name="f" duration-ms="11851" started-at="2022-07-22T12:13:41 IST" finished-at="2022-07-22T12:13:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenn.Testdemo11@67784306]" name="afterTest" is-config="true" duration-ms="1188" started-at="2022-07-22T12:13:53 IST" finished-at="2022-07-22T12:13:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- mavenn.Testdemo11 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- mavenn.Testdemo11 -->
+</testng-results>
