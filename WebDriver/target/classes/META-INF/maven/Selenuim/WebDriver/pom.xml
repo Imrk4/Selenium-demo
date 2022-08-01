@@ -37,7 +37,7 @@
 		<configuration>
 		<includes>
 <exclude>
-**/*Testdemo11.java
+**/*Orangeex1.java
 </exclude>
 </includes>
 </configuration>

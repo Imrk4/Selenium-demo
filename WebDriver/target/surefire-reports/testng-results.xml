@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="mavenn.Testdemo11" duration-ms="25480" started-at="2022-07-22T12:13:29 IST" finished-at="2022-07-22T12:13:54 IST">
+  <suite name="mavenn.Testdemo11" duration-ms="54653" started-at="2022-07-28T23:45:38 IST" finished-at="2022-07-28T23:46:32 IST">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="25480" started-at="2022-07-22T12:13:29 IST" finished-at="2022-07-22T12:13:54 IST">
+    <test name="Command line test" duration-ms="54653" started-at="2022-07-28T23:45:38 IST" finished-at="2022-07-28T23:46:32 IST">
       <class name="mavenn.Testdemo11">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenn.Testdemo11@67784306]" name="beforeTest" is-config="true" duration-ms="12379" started-at="2022-07-22T12:13:29 IST" finished-at="2022-07-22T12:13:41 IST">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenn.Testdemo11@67784306]" name="beforeTest" is-config="true" duration-ms="36358" started-at="2022-07-28T23:45:38 IST" finished-at="2022-07-28T23:46:14 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="f()[pri:0, instance:mavenn.Testdemo11@67784306]" name="f" duration-ms="11851" started-at="2022-07-22T12:13:41 IST" finished-at="2022-07-22T12:13:53 IST">
+        <test-method status="PASS" signature="f()[pri:0, instance:mavenn.Testdemo11@67784306]" name="f" duration-ms="16189" started-at="2022-07-28T23:46:14 IST" finished-at="2022-07-28T23:46:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenn.Testdemo11@67784306]" name="afterTest" is-config="true" duration-ms="1188" started-at="2022-07-22T12:13:53 IST" finished-at="2022-07-22T12:13:54 IST">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenn.Testdemo11@67784306]" name="afterTest" is-config="true" duration-ms="2030" started-at="2022-07-28T23:46:30 IST" finished-at="2022-07-28T23:46:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
